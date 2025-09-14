@@ -46,8 +46,13 @@ variables, functions, loops, conditionals and file handling.
 
 
 ## To Run these Projects
-1. you can clone using git on your terminal-
-  git clone https://github.com/Soni-K30/python-mini-projects.git
-2. go to the project file on your vs code.
-3. run the python file-
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/Soni-K30/python-mini-projects.git
+
+2. go to the project folder on your vs code.
+3. run the project, in the terminal type-
+   ```bash
    python calculatorwithhistory.py
+(Replace with todolist.py, passwordstrengthchecker.py, or pythonquiz.py for other projects.)
