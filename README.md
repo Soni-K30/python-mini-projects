@@ -47,7 +47,7 @@ variables, functions, loops, conditionals and file handling.
 
 ## To Run these Projects
 1. you can clone using git on your terminal-
-  https://github.com/Soni-K30/python-mini-projects.git
+  git clone https://github.com/Soni-K30/python-mini-projects.git
 2. go to the project file on your vs code.
 3. run the python file-
    python calculatorwithhistory.py
