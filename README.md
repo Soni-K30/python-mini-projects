@@ -1,4 +1,4 @@
-# python-mcq-quiz
+# python-mini-projects
 collection of simple small Python projects I built 
 while learning this programming language.
 These projects helped me practice core python concepts like 
